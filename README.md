@@ -11,7 +11,7 @@ Through a physical rope, participants guide a line as it evolves from a **saplin
 - Once matured, the tree is **cut down** and carefully **carved in a factory**.  
 - Finally, it becomes a **guitar**, tracing not only the making of an instrument, but also the transformation of **nature into human musical culture**.
 
-📺 **Project Video:** [Watch on YouTube](https://youtu.be/XzeWMsJH0lg)
+**Project Video:** [Watch on YouTube](https://youtu.be/XzeWMsJH0lg)
 
 
 
