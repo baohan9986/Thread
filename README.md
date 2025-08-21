@@ -27,6 +27,6 @@ Through a physical rope, participants guide a line as it evolves from a **saplin
 ## Tech Stack
 
 - **Hardware:** String potentiometer, Arduino Nano  
-- **Software:** [p5.js](https://p5js.org/), Arduino IDE  
+- **Software:** p5.js, Arduino IDE  
 
 
