@@ -6,9 +6,11 @@ Thread is an interactive installation that tells a story of growth and transform
 
 
 
+
 ## Story
 
 A single red line starts with a sapling, which gradually grows into a towering tree. Once matured, it is cut down and carefully carved in a factory, eventually becoming a guitar. It traces not only the making of an instrument, but also the transformation of nature into human musical culture. 
+
 
 
 
@@ -17,6 +19,7 @@ A single red line starts with a sapling, which gradually grows into a towering t
 - **User Input:** Pulling a physical rope  
 - **System Feedback:** A red line evolves on screen  
 - **Design Focus:** Intuitive interaction, no instructions needed — users control the pacing of the story  
+
 
 
 
