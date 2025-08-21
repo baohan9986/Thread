@@ -15,13 +15,6 @@ Through a physical rope, participants guide a line as it evolves from a **saplin
 
 
 
-## Visual Details
-
-| Sapling | Tree | Factory | Guitar |
-|---------|------|---------|--------|
-| ![Sapling](assets/sapling.png) | ![Tree](assets/tree.png) | ![Factory](assets/factory.png) | ![Guitar](assets/guitar.png) |
-
-
 
 ## Interaction
 
