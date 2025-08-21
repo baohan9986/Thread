@@ -3,7 +3,7 @@
 **Thread** is an interactive installation that tells a story of growth and transformation.  
 Through a physical rope, participants guide a line as it evolves from a **sapling** to a **tree** and finally into a **guitar**, blending **nature, creativity, and renewal**.
 
----
+
 
 ## Story
 
