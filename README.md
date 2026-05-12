@@ -4,8 +4,6 @@ Thread is an interactive installation that tells a story of growth and transform
 
 https://www.hanbao.works/work/thread
 
-**Project Video:** [Watch on YouTube](https://youtu.be/XzeWMsJH0lg)
-
 
 
 
